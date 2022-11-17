@@ -5,7 +5,6 @@ import styles from '../styles/Home.module.css'
 import NavBar from "../components/NavBar"
 import Disconnected from '../components/Disconnected'
 import { connected } from "process"
-import { useWallet } from "@solana/wallet-adapter-react"
 import Connected from "../components/Connected"
 
 
